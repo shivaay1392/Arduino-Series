@@ -17,5 +17,5 @@ void loop()
   digitalWrite(ILED, LOW);
   digitalWrite(ELED, HIGH);
   delay(2000);
-  Serial.println("LED -> OFF");
+  Serial.println("ILED -> OFF");
 }
