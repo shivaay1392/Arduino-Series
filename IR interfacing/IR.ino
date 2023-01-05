@@ -1,4 +1,4 @@
-#define IR 13
+#define IR 3
 #define LED 12
 
 void setup()
