@@ -1,4 +1,4 @@
-#define gas 9
+#define gas A0
 #define LED 12
 
 void setup()
